@@ -107,20 +107,8 @@ img {
   h3 {
     display: none;
   }
-}
-
-@media (max-height: 375px) {
-  h1 {
-    font-size: 30px;
-  }
   img {
     width: 100px;
-    height: 120px;
-  }
-  h2 {
-    display: none;
-  }
-  h3 {
-    display: none;
+    height: 130px;
   }
 }
