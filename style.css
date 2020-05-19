@@ -61,13 +61,11 @@ h3 {
 .video-container video {
   min-width: 100%;
   min-height: 100%;
-  height: auto;
-  width: auto;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  object-fit: fill;
+  object-fit: cover;
 }
 
 .video-container:after {
