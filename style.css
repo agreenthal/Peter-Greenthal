@@ -97,7 +97,7 @@ img {
   color: white;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 414px) {
   h1 {
     font-size: 40px;
   }
@@ -116,5 +116,11 @@ img {
   img {
     width: 100px;
     height: 120px;
+  }
+  h2 {
+    display: none;
+  }
+  h3 {
+    display: none;
   }
 }
